@@ -173,6 +173,20 @@ For this program, there are two files:
 
   ```
 
+Once executed this program, the output we should have is something similar to the following:
+
+```
+  Init:Zero 0s=486  1s=514  agree=1000
+  Init:One  0s=503  1s=497  agree=1000
+  Press any key to continue...
+```
+
+##### What has happened?
+
+Basically we have created an Quantum Entanglement situation in which from two Qubits we measure the first one, now the interesting part is the second Qubit. After measuring the first one, when measuring the second one, it should collapse to the same value than the first. And this is where we should have from the 1000 measurements a 100% agree.
+
+
+### IBM QExperience
 
 
    [Quantum Development Kit]: https://www.microsoft.com/en-us/quantum/development-kit
