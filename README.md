@@ -38,21 +38,18 @@ After installing the needed components, we must validate that everything in the 
 
   ```
   git clone https://github.com/Microsoft/Quantum.git
-  
   ```
 
   - Change directory to the target program
 
   ```
   cd Quantum/Samples/src/Teleportation/
-
   ```
 
   - Execute the program
 
   ```
   dotnet run
-
   ```
 
 If the environment has been correctly setup, we should get the following output:
