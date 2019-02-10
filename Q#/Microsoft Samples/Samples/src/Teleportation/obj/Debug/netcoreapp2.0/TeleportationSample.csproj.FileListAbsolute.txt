@@ -1,0 +1,11 @@
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.deps.json
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.runtimeconfig.json
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.runtimeconfig.dev.json
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.dll
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.pdb
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.csprojAssemblyReference.cache
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.csproj.CoreCompileInputs.cache
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.AssemblyInfoInputs.cache
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.AssemblyInfo.cs
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.dll
+/Users/ruben/Quantum/Quantum/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.pdb
