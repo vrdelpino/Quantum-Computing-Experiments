@@ -71,10 +71,10 @@ If the environment has been correctly setup, we should get the following output:
 
 #### Running our first Q# program 
 
-For the first Quantum Program I'm going to run a simulation of Bell test. 
-One of the main properties in Quantum Computing is [Quantum Entanglement] and [Quantum Superposition].
+For the first Quantum Program I'm going to run a simulation of [Bell Experiment]. 
+One of the main properties in Quantum Computing is [Quantum Entanglement] and [Quantum Superposition]. 
 
-In a nutshell, I will generate some Qubits in an initial state, perform some operations on them and test the results (which should match the physical laws for Quantum Computing)
+Qunatum Entanglement is in a nutshell the property in which two quantum particles are connected no matter their location. This would break some physical laws as it would mean information can be transported faster than speed light (this would happen if each particle would be located in a different corner of the universe). In order to test this property (called by Einstein "spooky action at distance") Bell created an experiment to confirm this "spooky action". This experiment will be the first program I will try in Quantum Computing
 
 When programming in Q# there are two main files needed:
 
@@ -182,5 +182,6 @@ For this program, there are two files:
    [Visual Studio Code]: https://code.visualstudio.com/
    [Q# Experiments]: https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/Q%23
    [Bell Test]: https://en.wikipedia.org/wiki/Bell_state
+   [Bell Experiment]: https://en.wikipedia.org/wiki/Bell_test_experiments
    [Quantum Entanglement]: https://en.wikipedia.org/wiki/Quantum_entanglement
    [Quantum Superposition]: https://en.wikipedia.org/wiki/Quantum_superposition
