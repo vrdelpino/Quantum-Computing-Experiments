@@ -922,11 +922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruben/Quantum/Bell/Bell.csproj",
+      "projectUniqueName": "/Users/ruben/Quantum-Computing-Experiments/Q#/Bell/Bell.csproj",
       "projectName": "Bell",
-      "projectPath": "/Users/ruben/Quantum/Bell/Bell.csproj",
+      "projectPath": "/Users/ruben/Quantum-Computing-Experiments/Q#/Bell/Bell.csproj",
       "packagesPath": "/Users/ruben/.nuget/packages/",
-      "outputPath": "/Users/ruben/Quantum/Bell/obj/",
+      "outputPath": "/Users/ruben/Quantum-Computing-Experiments/Q#/Bell/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
