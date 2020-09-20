@@ -257,7 +257,7 @@ This is free and will allow to access the Quantum Environment.
 ### Build Quantum Experiments in IBM QExperience 
 
 Once this account is created, you will get access to the Composer.
-![IBM QExperience Composer](https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/IBMQExperience/Environment/IBM_QExperience_Composer.png) 
+![IBM QExperience Composer](IBMQExperience/Environment/IBM_QExperience_Composer.png) 
  
 IBM takes a visual approach to experiment with Quantum Computing where you can visualize the circuit you are building. 
 
@@ -265,7 +265,7 @@ Additionaly, the developer can use Qiskit in a cloud-enabled Quantum Lab, accesi
 
 Our first experiment in IBM QExperience will be the [Bell Test], this will be our "Hello World" in Quantum Computing (Imagen Aqui).   
 
-![IBM QExperience Composer](https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/IBMQExperience/Environment/IBM_QExperience_First_Circuit.png)
+![IBM QExperience Composer](IBMQExperience/Environment/IBM_QExperience_First_Circuit.png)
 
 The steps to follow to create our [IBM QExperience Bell Test] (our Quantum "Hello World") are the following:
 
@@ -276,7 +276,7 @@ The steps to follow to create our [IBM QExperience Bell Test] (our Quantum "Hell
 
 The circuit should look like the following:
 
-![IBM QExperience Composer](https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/IBMQExperience/Environment/IBM_QExperience_Bell_Test.png)
+![IBM QExperience Composer](IBMQExperience/Environment/IBM_QExperience_Bell_Test.png)
 
 #### How do we run it?
 
@@ -284,11 +284,11 @@ In this environment, we'l run the simulation in one of the IBM Environments.
 In this case, this Bell Test will be run on the Melbourne IBM center. 
 Clicking in jobs, we have a good view of how many jobs we have queued and when we can expect ours to be executed
 
-![IBM QExperience Composer](https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/IBMQExperience/Environment/IBM_QExperience_Execution.png)
+![IBM QExperience Composer](IBMQExperience/Environment/IBM_QExperience_Execution.png)
 
 Once, the execution is finished, we'll be able to check the results:
 
-![IBM QExperience Composer](https://github.com/vrdelpino/Quantum-Computing-Experiments/tree/master/IBMQExperience/Environment/IBM_QExperience_Execution_Finished.png)
+![IBM QExperience Composer](IBMQExperience/Environment/IBM_QExperience_Execution_Finished.png)
 
 
 
