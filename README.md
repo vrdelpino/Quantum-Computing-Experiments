@@ -1,8 +1,18 @@
 # Quantum Computing Experiments
 
-Quantum Computing Experiments is a test project using different Quantum simulators and libraries like Q# and IBM QExperience.
+Quantum Computing Experiments is a project to learn Quantum Computing using different Quantum simulators and libraries like Q#, Cirq and IBM QExperience.
 
-## Q# Programming Language ([Q# Experiments])
+# Table of Contents
+
+###  1. [Q# Programming Language](#T1)
+###  2. [Q# Programming Language and Python](#T2)
+###  3. [IBM QExperience](#T3) 
+###  4. [Python and Cirq with Tensorflow](#T4)
+###  5. [Recommended Material](#T5)
+
+
+
+## <a name="T1"></a> 1. Q# Programming Language 
 
 **What is [Q# Programming Language]?**  
 
@@ -185,7 +195,7 @@ Once executed this program, the output we should have is something similar to th
 
 Basically we have created an Quantum Entanglement situation in which from two Qubits we measure the first one, now the interesting part is the second Qubit. After measuring the first one, when measuring the second one, it should collapse to the same value than the first. And this is where we should have from the 1000 measurements a 100% agree.
 
-## Q# Programming Language and Python
+## <a name="T2"></a> 2. Q# Programming Language and Python
 
 Using Q# and Python we get the benefits of the best of each world: Quantum Computing through Q# and the flexibility of Python 
 
@@ -232,7 +242,7 @@ After all these steps, we are ready to go.
 ### Our first Q# and Python program
 
 
-## IBM QExperience
+## <a name="T3"></a> 3. IBM QExperience
 
 Other option for experimenting with Quantum Computing is the IBM QExperience. 
 To use the IBM Quantum Experience, you will need to create an [IBM QExperience Account] in [IBM QExperience]. 
@@ -297,8 +307,65 @@ Once, the execution is finished, we'll be able to check the results:
 Similar to what we did with Q# we have tested the Quantum Entanglement, in this case from a visual environment.
 This is very easy to check using the inspector and how values change in our QBits.
 
+## <a name="T4"></a> 4. Cirq
 
-## Recommended Material
+### What is Cirq
+
+Think of [Cirq] as an intermediate layer to provide abstraction over Quantum Computers and simulators. 
+Cirq exposes details of each different hardware making possible to determine whether if a circuit will be executed or not.
+
+From the web of Cirq:
+
+"Cirq is a software library for writing, manipulating, and optimizing quantum circuits and then running them against quantum computers and simulators. Cirq attempts to expose the details of hardware, instead of abstracting them away, because, in the Noisy Intermediate-Scale Quantum (NISQ) regime, these details determine whether or not it is possible to execute a circuit at all."
+
+**Keep in mind Cirq is in Alpha, so it may change when there is a new release**
+
+
+### Setup of the components
+
+Similar requirements than Python and Q# will be needed, prerequisites:
+
+* Python 3.6 or later
+* The PIP Python package manager
+
+Additionally, we'll need to install the following:
+
+```
+    pip install cirq
+```
+
+For the experiments we'll run with [Tensorflow], additionaly we'll need the following:
+
+```
+    pip install -q tensorflow==2.1.0
+    pip install tensorflow-quantum
+```
+
+
+Finally, we'll run our experiments in [Jupyter Notebook], so, in order to execute the same experiments, install Jupyter:
+
+``` 
+    pip install jupyterlab
+``` 
+
+
+### Neural Networks Experiment
+
+For testing Cirq we'll run a version of the [MNIST] experiment by Google. 
+In this experiment, a similar approach than [Farhi et al] is executed over the MNIST data set. 
+For our experiment we'll perform a classical classification problem: The [Iris Data Set].
+
+This data set contains 4 features:
+* Sepal length in cm
+* Sepal width in cm
+* Petal length in cm
+* Petal width in cm
+
+In order to simplify the problem, we'll transform this problem in a binary classification for Iris Setosa.
+
+
+
+##  <a name="T4"></a> Recommended Material
 
 The material (books and online inforamtion) I have used for this repository are the following:
 * Practical Quantum Computing for Developers - Vladimir Silva
@@ -330,3 +397,9 @@ The material (books and online inforamtion) I have used for this repository are 
    [Controlled Gates]:https://en.wikipedia.org/wiki/Quantum_logic_gate#Controlled_(cX_cY_cZ)_gates
    [IBM QExperience Account]: https://quantum-computing.ibm.com/docs/manage/account/
    [IBM QExperience Sign In]: https://quantum-computing.ibm.com/
+   [Cirq]: https://cirq.readthedocs.io/en/stable/
+   [Tensorflow]: https://www.tensorflow.org/
+   [Jupyter Notebook]: https://jupyter.org/
+   [MNIST]: https://www.tensorflow.org/quantum/tutorials/mnist
+   [Farhi et al]: https://arxiv.org/pdf/1802.06002.pdf
+   [Iris Data Set]: https://archive.ics.uci.edu/ml/datasets/iris
