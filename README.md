@@ -365,7 +365,7 @@ In order to simplify the problem, we'll transform this problem in a binary class
 
 
 
-##  <a name="T4"></a> Recommended Material
+##  <a name="T5"></a> Recommended Material
 
 The material (books and online inforamtion) I have used for this repository are the following:
 * Practical Quantum Computing for Developers - Vladimir Silva
