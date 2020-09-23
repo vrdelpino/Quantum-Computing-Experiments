@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0bb79-c547-46a3-a12a-499acf84e75a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d4d0bb79-c547-46a3-a12a-499acf84e75a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="364" lean-forward="true" selection-start-line="353" selection-end-line="364" />
+              <first_editor relative-caret-position="189">
+                <caret line="377" lean-forward="true" selection-start-line="377" selection-end-line="377" />
               </first_editor>
               <second_editor />
             </state>
@@ -201,8 +198,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="364" lean-forward="true" selection-start-line="353" selection-end-line="364" />
+          <first_editor relative-caret-position="189">
+            <caret line="377" lean-forward="true" selection-start-line="377" selection-end-line="377" />
           </first_editor>
           <second_editor />
         </state>
