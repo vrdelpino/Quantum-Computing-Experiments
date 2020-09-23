@@ -363,7 +363,10 @@ This data set contains 4 features:
 
 In order to simplify the problem, we'll transform this problem in a binary classification for Iris Setosa.
 
+#### Step 1. Ingest and process the data
 
+
+#### 
 
 ##  <a name="T5"></a> 5. Recommended Material
 
