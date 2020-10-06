@@ -4,6 +4,7 @@ Quantum Computing Experiments is a project to learn Quantum Computing using diff
 
 # Table of Contents
 
+###  0. [Docker Environment](#T0) 
 ###  1. [Q# Programming Language](#T1)
 ###  2. [Q# Programming Language and Python](#T2)
 ###  3. [IBM QExperience](#T3) 
@@ -11,6 +12,18 @@ Quantum Computing Experiments is a project to learn Quantum Computing using diff
 ###  5. [Recommended Material](#T5)
 
 
+## <a name="T0"></a> 0. Docker Environment
+
+Part of the learning experience working with Quantum computing is to get familiar with installing the software needed.
+
+Once the user knows how to prepare the computer for Quantum computing it may be time consuming to prepare additional computers (for switching or working in the cloud).
+
+If needed, as an additional project a Docker image with everything needed to run these experiments is available on: https://github.com/vrdelpino/quantum-studio 
+
+Docker image available on Docker Hub: rubendelpino/quantum-studio. 
+```
+    docker pull rubendelpino/quantum-studio:latest
+```
 
 ## <a name="T1"></a> 1. Q# Programming Language 
 
