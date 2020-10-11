@@ -1,6 +1,6 @@
 # Quantum Computing Experiments
 
-Quantum Computing Experiments is a project to learn Quantum Computing using different Quantum simulators and libraries like Q#, Cirq and IBM QExperience.
+Quantum Computing Experiments is a project to learn Quantum Computing using different Quantum simulators and libraries like Q#, Qiskit, Cirq and IBM QExperience.
 
 # Table of Contents
 
@@ -16,7 +16,7 @@ Quantum Computing Experiments is a project to learn Quantum Computing using diff
 
 Part of the learning experience working with Quantum computing is to get familiar with installing the software needed.
 
-Once the user knows how to prepare the computer for Quantum computing it may be time consuming to prepare additional computers (for switching or working in the cloud).
+Once the user knows how to prepare the computer for Quantum computing it may be time consuming to prepare additional computers (to switch from personal to work computer for example).
 
 If needed, as an additional project a Docker image with everything needed to run these experiments is available on: https://github.com/vrdelpino/quantum-studio 
 
@@ -210,6 +210,9 @@ Basically we have created an Quantum Entanglement situation in which from two Qu
 
 ## <a name="T2"></a> 2. Q# Programming Language and Python
 
+What if we feel more comfortable working with Python? That shouldn't be a problem with Q#.
+There is the possibility of executing Q# from Python (in a Jupyter Notebook), in this case, the Python code would work as the Driver.
+
 Using Q# and Python we get the benefits of the best of each world: Quantum Computing through Q# and the flexibility of Python 
 
  
@@ -250,13 +253,15 @@ To use Visual Studio Code, the steps are the following:
 * Install [VS Code]
 * Install [QDK Extension for VS Code]
 
-After all these steps, we are ready to go.
+After all these steps, we are ready to go. 
+As a personal decision, I will use Jupyter Notebook, if you are interested in following a similar approach, feel free to use quantum-studio Docker image I created.
+
 
 ### Our first Q# and Python program
 
 For this experiment we'll need two main files:
-* Python code executing the experiment
-* Q# code
+* Python code executing the experiment (The driver)
+* Q# code (our Q# experiment to run)
 
 Both files can be found in QSharp/Python - QSharp -Random Number Generator Experiment
 
@@ -267,6 +272,31 @@ Q# Code:
 Python Jupyter Notebook:
 
 ![Q# Notebook](QSharp/snapshots/Q Notebook.png) 
+
+
+### What have we done here?
+
+Basically we have created a random number using the capabilities reading QBits. 
+As we know when reading a QBit in superposition this QBit will read as 0 50% of the time, meanwhile the other 50% (aprox) will read as 1.
+So the only thing we needed was to put our QBit in superposition using a Hadamard gate, and then proceed to read it.
+
+If we combined a series of QBits we can generate a truly random number. For example for 3 QBits we would be able to generate one of the following combinations randomly:
+
+0- 000
+
+1- 001
+
+2- 010
+
+3- 011
+
+4- 100
+
+5- 101
+
+6- 110
+
+7- 111
 
 
 ## <a name="T3"></a> 3. IBM QExperience
@@ -380,15 +410,9 @@ Finally, we'll run our experiments in [Jupyter Notebook], so, in order to execut
 
 For testing Cirq we'll run a version of the [MNIST] experiment by Google. 
 In this experiment, a similar approach than [Farhi et al] is executed over the MNIST data set. 
-For our experiment we'll perform a classical classification problem: The [Iris Data Set].
+For our experiment we'll perform a similar classical classification problem involving a different number.
 
-This data set contains 4 features:
-* Sepal length in cm
-* Sepal width in cm
-* Petal length in cm
-* Petal width in cm
-
-In order to simplify the problem, we'll transform this problem in a binary classification for Iris Setosa.
+In order to simplify the problem, we'll transform this problem in a binary classification in a similar way than Tensorflow team.
 
 #### Step 1. Ingest and process the data
 
