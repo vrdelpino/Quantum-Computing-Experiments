@@ -254,6 +254,20 @@ After all these steps, we are ready to go.
 
 ### Our first Q# and Python program
 
+For this experiment we'll need two main files:
+* Python code executing the experiment
+* Q# code
+
+Both files can be found in QSharp/Python - QSharp -Random Number Generator Experiment
+
+Q# Code:
+
+![Q# Notebook](QSharp/snapshots/Q Code.png)
+
+Python Jupyter Notebook:
+
+![Q# Notebook](QSharp/snapshots/Q Notebook.png) 
+
 
 ## <a name="T3"></a> 3. IBM QExperience
 

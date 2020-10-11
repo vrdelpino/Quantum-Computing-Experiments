@@ -2,10 +2,219 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0bb79-c547-46a3-a12a-499acf84e75a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cirq/.ipynb_checkpoints/Iris Data Set - Quantum Neural Network -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cirq/.ipynb_checkpoints/Iris Data Set - Quantum Neural Network -checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cirq/Iris Data Set - Quantum Neural Network .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cirq/Iris Data Set - Quantum Neural Network .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirq/.ipynb_checkpoints/1. EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cirq/.ipynb_checkpoints/1. EDA-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirq/.ipynb_checkpoints/Iris Data Set - Quantum Neural Network -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cirq/.ipynb_checkpoints/Iris Data Set - Quantum Neural Network -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirq/Iris Data Set - Quantum Neural Network .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cirq/Iris Data Set - Quantum Neural Network .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirq/data/iris_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cirq/data/iris_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cirq/data/iris_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cirq/data/iris_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/Bell.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/Bell.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/Bell.qs" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/Bell.qs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/Driver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/Driver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/bin/Debug/netcoreapp2.0/Bell.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/bin/Debug/netcoreapp2.0/Bell.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/bin/Debug/netcoreapp2.0/Bell.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Bell.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Bell.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Bell.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Bell.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Bell.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Bell.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/Bell.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/Debug/netcoreapp2.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/Debug/netcoreapp2.0/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/qsharp/qsc-command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/qsharp/qsc-command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/qsharp/qsc-ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/qsharp/qsc-ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Bell/obj/qsharp/src/Bell.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QSharp/QSharp - Bell Experiment/obj/qsharp/src/Bell.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/QsharpSamples.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/AdiabaticIsing/AdiabaticIsing.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/AdiabaticIsing/AdiabaticIsingSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/AdiabaticIsing/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/AdiabaticIsing/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/AdiabaticIsing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/BitFlipCode/BitFlipCode.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/BitFlipCode/BitFlipCode.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/BitFlipCode/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/BitFlipCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/CHSHGame/CHSHGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/CHSHGame/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/CHSHGame/Game.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/DatabaseSearch/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/DatabaseSearch/DatabaseSearch.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/DatabaseSearch/DatabaseSearchSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/DatabaseSearch/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/DatabaseSearch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/H2SimulationCmdLine/H2SimulationSampleCmdLine.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/H2SimulationCmdLine/Operation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/H2SimulationCmdLine/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/HubbardSimulation/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/HubbardSimulation/HubbardSimulation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/HubbardSimulation/HubbardSimulationSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/HubbardSimulation/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/HubbardSimulation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IntegerFactorization/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IntegerFactorization/IntegerFactorization.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IntegerFactorization/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IntegerFactorization/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IntegerFactorization/Shor.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingGenerators/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingGenerators/IsingGenerators.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingGenerators/IsingGeneratorsSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingGenerators/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingGenerators/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingPhaseEstimation/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingPhaseEstimation/IsingPhaseEstimation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingPhaseEstimation/IsingPhaseEstimationSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingPhaseEstimation/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingPhaseEstimation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingTrotterEvolution/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingTrotterEvolution/IsingTrotter.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingTrotterEvolution/IsingTrotterSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingTrotterEvolution/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/IsingTrotterEvolution/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Measurement/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Measurement/Measurement.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Measurement/Measurement.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Measurement/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasm/ConsoleDriver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasm/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasm/OpenQasm.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasm/OpenQasmDriver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasmReader/OpenQasmReader.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasmReader/Parser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OpenQasmReader/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OrderFinding/OrderFinding.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OrderFinding/OrderFinding.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OrderFinding/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/OrderFinding/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PhaseEstimation/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PhaseEstimation/BayesianPhaseEstimation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PhaseEstimation/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PhaseEstimation/PhaseEstimationSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PhaseEstimation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PythonInterop/Operation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PythonInterop/PythonInterop.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PythonInterop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PythonInterop/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/PythonInterop/tomography-sample.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/IbmQx4.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/IbmQx5.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/Qiskit.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/QiskitDriver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/QiskitInterface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/QiskitQasmRunner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Qiskit/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/ReversibleLogicSynthesis/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/ReversibleLogicSynthesis/ReversibleLogicSynthesis.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/ReversibleLogicSynthesis/ReversibleLogicSynthesis.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleAlgorithms/Driver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleAlgorithms/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleAlgorithms/SimpleAlgorithms.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleAlgorithms/SimpleAlgorithms.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleIsing/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleIsing/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleIsing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleIsing/SimpleIsing.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/SimpleIsing/SimpleIsingSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/TeleportationSample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/TeleportationSample.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/bin/Debug/netcoreapp2.0/TeleportationSample.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/Debug/netcoreapp2.0/TeleportationSample.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/TeleportationSample.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/TeleportationSample.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/TeleportationSample.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/qsharp/qsc-command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/qsharp/qsc-ok.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/Teleportation/obj/qsharp/src/TeleportationSample.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/CCNOTCircuits.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/CCNOTCircuitsMetrics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/CCNOTCircuitsTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/ControlledSWAP.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/ControlledSWAPMetrics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/ControlledSWAPTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MetricCalculationUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiControlledNOT.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiControlledNOTMetrics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiControlledNOTTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiControlledXBorrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiTargetCNOT.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/MultiTargetCNOTTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/QuantumSimulatorTestTargets.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/RepeatUntilSuccessCircuits.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/RepeatUntilSuccessCircuitsMetrics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/RepeatUntilSuccessCircuitsTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/SuperdenseCoding.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/SuperdenseCodingTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/Teleportation.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/TeleportationTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/src/UnitTesting/UnitTesting.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/End2EndTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/FirstLetterToUpperCaseTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/IndexedCallTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/OpenQasmReader.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseApplicationTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseBarrierTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseCalculationTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseConditionTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseIncludeTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/ParseOpenQasmHeaderTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/5qubit1.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/CNot.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/Gates.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/Hadamard.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/bv3.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/hid3.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/marg5.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TestFunctions/toff6.qasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/TokenizerTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Bv3.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/CNot.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/FiveQubit1.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Gates.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Hadamard.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Hid3.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Marg5.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/OpenQasmReader.Tests/Validate/Toff6.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/BayesianPETests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/BitFlipTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/DatabaseSearchTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/EnumerationTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/MeasurementTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/ReversibleLogicSynthesisTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/SampleTests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/SimpleAlgorithmsTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/Simulation/IsingTests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/Simulation/Tests.qs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/SimulatorTestTargets.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q#/Microsoft Samples/Samples/tests/SampleTests/app.config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +240,9 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
