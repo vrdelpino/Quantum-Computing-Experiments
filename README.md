@@ -276,11 +276,11 @@ Python Jupyter Notebook:
 
 ### What have we done here?
 
-Basically we have created a random number using the capabilities reading QBits. 
-As we know when reading a QBit in superposition this QBit will read as 0 50% of the time, meanwhile the other 50% (aprox) will read as 1.
-So the only thing we needed was to put our QBit in superposition using a Hadamard gate, and then proceed to read it.
+Basically we have created a random number using the capabilities reading Qubits. 
+As we know when reading a Qubit in superposition this Qubit will read as 0 50% of the time, meanwhile the other 50% (aprox) will read as 1.
+So the only thing we needed was to put our Qubit in superposition using a Hadamard gate, and then proceed to read it.
 
-If we combined a series of QBits we can generate a truly random number. For example for 3 QBits we would be able to generate one of the following combinations randomly:
+If we combined a series of Qubits we can generate a truly random number. For example for 3 Qubits we would be able to generate one of the following combinations randomly:
 
 0- 000
 
@@ -362,7 +362,7 @@ Once, the execution is finished, we'll be able to check the results:
 ##### What has happened?
 
 Similar to what we did with Q# we have tested the Quantum Entanglement, in this case from a visual environment.
-This is very easy to check using the inspector and how values change in our QBits.
+This is very easy to check using the inspector and how values change in our Qubits.
 
 ## <a name="T4"></a> 4. Cirq
 
